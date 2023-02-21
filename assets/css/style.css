@@ -5,12 +5,12 @@
     }
 
 .container-image-main{
-    background-image: url(../image/Home.page.webp);
+    background-image: url(../image/home-page.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 240px;
+    height:50vh;
 }
 
 .link-main{
@@ -51,52 +51,72 @@ main{
 }
 
 .window-top-up{
-    width: 480px;
-    height: 180px;
-    background-color: #e97b1a83;
-    float: right;
-    margin-right: -80px;
-    margin-top: 150px;
-    font-size: 300%;
+    width: 200px;
+    height: 100px;
+    background-color: #e97b1a83;    
+}
+.font-promotion{
+    font-size: medium;
+    text-align: center;
+}
+.link-classes{
+    text-decoration: none;
+    color: white;
+}
+.link-classes:hover{
+    color: #e9791a;
 }
 
+.fs-link{
+    font-size: small;
+}
+
+
+
 @media only screen and (min-width: 768px) {
-    .container-image-main{
+.container-image-main{
         width: 100%;
-        height: 500px;
+        height: 50vh;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
-        background-image: url("../image/Home.page.webp");
+        background-image: url(../image/home-page.jpg);
+}
+#howtofind{
+    margin-top: 0px;
+}
+.md-textarea{
+    height: 300px;
+}
+.map-container{
+    width: 100%;
+    height: 550px;
     }
-    #howtofind{
-        margin-top: 0px;
-    }
-    .md-textarea{
-        height: 300px;
-    }
-    .map-container{
-        width: 100%;
-        height: 550px;
-    }
-    .window-top-up{
-        width: 380px;
-        height: 180px;
-        background-color: #e97b1a83;
-        margin-top: 40%;
-        font-size: 200%;
-        float:right;
-    }
+.window-top-up{
+    width: 380px;
+    height: 180px;
+    background-color: #e97b1a83;
+    margin-top: 40%;
+    font-size: 200%;
+    float:right;
+}
+.link-classes{
+    text-decoration: none;
+    color: white;
+}
+.link-classes:hover{
+    color: #e9791a;
+}
 }
 
 @media only screen and (min-width: 992px) {
     .container-image-main{
         width: 100%;
-        height: 98vh;
+        height: 50vh;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
-        background-image: url("../image/Home.page.webp");
+        background-image: url(../image/home-page.jpg);
     }
     .link-classes{
         text-decoration: none;
@@ -110,7 +130,7 @@ main{
         height: 180px;
         background-color: #e97b1a83;
         float: right;
-        margin-top:80% ;
         font-size: 300%;
+        margin-bottom: 40px;
     }
 }

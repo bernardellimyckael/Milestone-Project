@@ -5,10 +5,10 @@
   <title>DGYM</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/style.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://kit.fontawesome.com/f3772a9168.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body style="font-family:sans-serif, serif ;">
@@ -44,17 +44,13 @@
   </header>
   <main class="container-fluid px-0 mt-5 ">
     <!--Main Image-->
-    <section class=" container-image-main ">
-      <div class="window-top-up text-center translate-middle">
-        <div class="h-50 ">
-          <h2 class="h1 p-1"><strong>FROM £19.99 A MONTH</strong> <br> <strong>NO CONTRACT</strong>
+    <section class=" container-image-main position-relative ">
+        <div class="position-absolute bottom-0 start-50 translate-middle-x window-top-up mb-2">
+          <h2 class="font-promotion p-1 mb-0"><strong>FROM £19.99 A MONTH</strong> <br> <strong>NO CONTRACT</strong>
           </h2>
-        </div>
-        <div class=" h-50">
           <div class="text-center text-md-left pt-2">
-            <a class="btn btn-primary ">Join Now</a>
+            <a class="btn btn-primary " style="background-color:#2196f3;">Join Now</a>
           </div>
-        </div>
       </div>
     </section>
     <!--Main Image-->
@@ -84,7 +80,7 @@
         </h2>
         <div class="col-12 col-sm-12 col-md-6 col-lg-3 text-center">
           <a class="link-classes" href="#">
-            <img class="container-img-class rounded-circle " src="image/full-body-workouts.jpg"
+            <img class="container-img-class rounded-circle " src="assets/image/workouts-container-class.jpg"
               alt="person training in the gym">
             <h4>Workout</h4>
             <p class="text-light m-auto w-75 pb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo voluptas natus, laudanti
@@ -94,7 +90,7 @@
 
         <div class="col-12 col-sm-12 col-md-6 col-lg-3 text-center">
           <a class="link-classes" href="#">
-            <img class="container-img-class rounded-circle " src="image/weightlifting-5730110__340.jpg"
+            <img class="container-img-class rounded-circle " src="assets/image/weightlifting-container-class.jpg"
               alt="person training in the gym">
             <h4>Crossfit</h4>
             <p class="text-light m-auto w-75">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo voluptas natus, laudanti
@@ -105,7 +101,7 @@
         <div class="col-12 col-sm-12 col-md-6 col-lg-3 text-center">
           <a class="link-classes" href="#">
             <img class="container-img-class rounded-circle "
-              src="image/Boxing-Training-Exercises-Cleto-Reyes-Gloves-1024x554.webp" alt="person training in the gym">
+              src="assets/image/boxing-container-class.jpg" alt="person training in the gym">
             <h4>Boxing</h4>
             <p class="text-light w-75 m-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo voluptas natus, laudanti
             </p>
@@ -114,7 +110,7 @@
 
         <div class="col-12 col-sm-12 col-md-6 col-lg-3 text-center">
           <a class="link-classes" href="#">
-            <img class="container-img-class rounded-circle " src="image/CyclingClass.webp"
+            <img class="container-img-class rounded-circle " src="assets/image/cycling-container-class.jpg"
               alt="person training in the gym">
             <h4>Cycling</h4>
             <p class="text-light m-auto w-75 ">Studio cycling, 45-minute calorie-crunching session! is it great for giving
@@ -186,7 +182,7 @@
               <!--Grid row-->
             </form>
             <div class="text-center text-md-left py-5">
-              <a style="background-color: #2196f3;" class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+              <a style="background-color: #2196f3;" class="btn btn-primary " onclick="document.getElementById('contact-form').submit();">Send</a>
             </div>
 
             <!--Grid column-->
