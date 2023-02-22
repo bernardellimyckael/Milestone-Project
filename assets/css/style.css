@@ -119,7 +119,7 @@ main{
 @media only screen and (min-width: 992px) {
     .container-image-main{
         width: 100%;
-        height:50vh;
+        height:60vh;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
@@ -134,7 +134,7 @@ main{
     }
     .window-top-up{
         width: 50vw;
-        height: 10vh;
+        height: 20vh;
         background-color: #e97b1a83;
         float: right;
     }
