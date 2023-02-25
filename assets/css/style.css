@@ -40,6 +40,7 @@
     right: 0;
     left: 0;
     z-index: 1030;
+    background-color: black !important;
 }
 main{
     height: 100%;
@@ -72,9 +73,12 @@ main{
 .headsize{
     font-size: 20px;
 }
-
-
-
+.blue-color{
+    background-color: #0872C9;
+}
+.ora-color{
+    background-color: #BE5804;
+}
 @media only screen and (min-width: 768px) {
 .container-image-main{
         width: 100%;
