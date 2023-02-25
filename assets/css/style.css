@@ -1,32 +1,21 @@
-.footer-link{
-        width: 32%;
-        display: inline-block;
-    }
-
+/*Background image from top page*/
 .container-image-main{
     background-image: url(../image/home-page.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height:50vh;
+    height:40vh;
+    object-fit: cover;
+}
+.active:hover{
+ color: #BE5804 !important;
 }
 
-.link-main{
-    width: 40%;
-    height: 30px;
-    background-color: rgb(218, 116, 21);
-    box-shadow:2px 3px rgba(0, 0, 0, 0.219);
+.text-decoration-none:hover{
+    color: #BE5804 !important;
 }
-
-.link-main:hover{
-    background-color: aliceblue;
-}
-
-.link-main > a{
-    text-decoration: none;
-}
-
+/*Classes Imagens center and fit it */
 .container-img-class{
     width: 150px;
     height: 150px;
@@ -34,6 +23,7 @@
     object-fit: cover;
  
 }
+/*hold menu on top of the page*/
 .fixar{
     position: fixed;
     top: 0;
@@ -42,43 +32,35 @@
     z-index: 1030;
     background-color: black !important;
 }
-main{
-    height: 100%;
-}
-
-#howtofind{
-    margin-top: -48px;
-}
-
+/*container with a price and join now btn*/
 .window-top-up{
-    width: 200px;
-    height: 100px;
+    width: 60vw;
+    height: auto;
     background-color: #e97b1a83;    
 }
+/*text position and size from container with price and join btn*/
 .font-promotion{
-    font-size: medium;
+    font-size: 100%;
     text-align: center;
 }
-.link-classes{
+/*head style from classes container*/
+.hd-classes{
     text-decoration: none;
     color: white;
 }
-.link-classes:hover{
-    color: #e9791a;
-}
-
-.fs-link{
-    font-size: small;
-}
-.headsize{
-    font-size: 20px;
-}
+/*class to blue background color*/
 .blue-color{
     background-color: #0872C9;
 }
+/*class to orange background color*/
 .ora-color{
     background-color: #BE5804;
 }
+/* mangin top to put all contain down 56 pixel cuz navbar was cuting the content*/
+.main-marg{
+    margin-top: 56px !important;
+}
+/* the same class as before but some changes to tablets size*/
 @media only screen and (min-width: 768px) {
 .container-image-main{
         width: 100%;
@@ -104,6 +86,7 @@ main{
     background-color: #e97b1a83;
     margin-top: 40%;
     float:right;
+    margin-bottom:10px !important ;
 }
 .link-classes{
     text-decoration: none;
@@ -117,7 +100,7 @@ main{
     text-align: center;
 }
 }
-
+/* the same class as before but some changes to big tablets size*/
 @media only screen and (min-width: 992px) {
     .container-image-main{
         width: 100%;
@@ -144,10 +127,11 @@ main{
         text-align: center;
     }
 }
+/* the same class as before but some changes to laptop and desktop size*/
 @media only screen and (min-width: 1400px) {
     .container-image-main{
         width: 100%;
-        height: 96vh;
+        height: 70vh;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
