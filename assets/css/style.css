@@ -60,6 +60,19 @@
 .main-marg{
     margin-top: 56px !important;
 }
+.confirm-main-contant{
+    background-image: url("../image/home-page.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.confirm-main-link-home{
+    width: 30vw;
+    height: 30vh;
+    background-color: #be58048f;
+    margin: auto;
+}
 /* the same class as before but some changes to tablets size*/
 @media only screen and (min-width: 768px) {
 .container-image-main{
