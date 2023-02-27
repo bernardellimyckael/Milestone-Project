@@ -65,6 +65,30 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 * images
 * icons
 
+* Navigation Bar
+    - The full responsive navigation bar includes logo and links to the Home Page, 'Our Classes', 'Contact us' and 'Find us' sections.
+
+* Home Page 
+    - The homepage will be a landing page for the user and a call to action text with a 'Join Now' button.
+    - This section covers a brief overview of what the gym stands for and its principal selling points.
+    
+* Our classes section
+    - All the four classes/activities that are provided by the gym.
+    - A brief informational text about each of them.
+    - A 'Join Now' button that, like the home page one, sends the user to the form section.
+    
+* Contact us section
+    - A form to contact the gym including a field for name, email, subject, message and a send button.
+    
+* Find us section
+    - A map with the gym location
+    - The written location, phone number and email to contact
+    
+* Footer
+    - Links for the section in the page: home, classes, contact and find us.
+    - Links for gym's social media: facebook, twitter, google and instagram.
+    - Copyright note.
+
 ## Animations and Transitions
 
 - On my footer I used transform: rotate(-15deg) scale(1.5); to move a bit my social icons when I hover on it.
@@ -73,7 +97,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 
 1. [HTML5](https://en.wikipedia.org/wiki/HTML5)
 1. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+1. [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used to get the icon to be the website's favicon and icons throughout the website.
@@ -108,12 +132,18 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 -   A large amount of testing was done to ensure that all page sections were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs
+### Bugs
+
+#### Fixed Bugs
 
 -   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
  would be pushed out of the box downwards.
-    -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug
+    -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug.
+    
+#### Unfixed Bugs
+
 -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully.
+    -   used [stackoverflow tutorial](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-navbar-on-click)
 
 ## Deployment
 
@@ -131,12 +161,20 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Credits
 
+### Readme Template
+
+-   Readme Template taken from GitHub:
+    -   [Code Institute Solutions](https://github.com/Code-Institute-Solutions/SampleREADME)
+    -   [nemixu - Stephen Seagrave](https://github.com/nemixu/Milestone1/blob/master/README.md)
+
 ### Code
 
--   [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to 
+-   [MDBootstrap](https://mdbootstrap.com/): Bootstrap Library used throughout the project mainly to:
     -   Making site responsive using the Bootstrap Grid System.
     -   Adding navbar and footer code.
     -   Using classes for colour, font, margin, padding, etc.
+    
+-   [W3Schools](https://www.w3schools.com/): used for guiding in differents parts of code.
 
 ### Content
 
@@ -153,3 +191,7 @@ The project was deployed to GitHub Pages using the following steps...
 ### Acknowledgements
 
 -   My Mentor Malia Havlicek for continuous helpful feedback.
+
+This project is for educational use only and was created for the Code Institute Module of User Centric front end development
+
+Created by Myckael Bernardelli
