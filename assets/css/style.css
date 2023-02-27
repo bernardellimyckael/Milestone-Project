@@ -56,7 +56,7 @@
 .ora-color{
     background-color: #BE5804;
 }
-/* mangin top to put all contain down 56 pixel cuz navbar was cuting the content*/
+/* margin top to put all contain down 56 pixel because navbar was cutting the content*/
 .main-marg{
     margin-top: 56px !important;
 }
@@ -80,6 +80,10 @@ footer a:hover i {
     transform: rotate(-15deg) scale(1.5);
 }
 
+body{
+    font-family:sans-serif, serif;
+}
+
 
 /* the same class as before but some changes to tablets size*/
 @media only screen and (min-width: 768px) {
@@ -100,7 +104,7 @@ footer a:hover i {
 .map-container{
     width: 100%;
     height: 550px;
-    }
+}
 .window-top-up{
     width: 50vw;
     height: auto;
