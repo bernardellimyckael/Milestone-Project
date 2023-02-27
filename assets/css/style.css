@@ -73,6 +73,14 @@
     background-color: #be58048f;
     margin: auto;
 }
+.text-position{
+    text-align: justify !important;
+}
+footer a:hover i {
+    transform: rotate(-15deg) scale(1.5);
+}
+
+
 /* the same class as before but some changes to tablets size*/
 @media only screen and (min-width: 768px) {
 .container-image-main{

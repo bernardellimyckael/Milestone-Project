@@ -20,3 +20,6 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 * As a user I want to know how to subscribe.
 * As a user I want to know about the classes they offer.
 * As a user I want to get in touch with the gym easily.
+* As a user I want to be able to find the gym addres and post code.
+
+
