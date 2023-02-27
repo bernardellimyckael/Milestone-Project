@@ -4,6 +4,8 @@ Project - User-Centric Frontend Development - Code Institute.
 
 The project will cover the main marketing website for DGYM. It is designed to be responsible and accessible on alot of devices, making it easy to navigate for potential students and partners.
 
+![Screenshot_20230221_235446](https://user-images.githubusercontent.com/96267170/221402947-845b25b2-8248-4ee8-bac3-5eac25568f5b.png)
+
 
 ## User Experience (UX)
 
