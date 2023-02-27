@@ -4,6 +4,10 @@ Project - User-Centric Frontend Development - Code Institute.
 
 The project will cover the main marketing website for DGYM. It is designed to be responsible and accessible on alot of devices, making it easy to navigate for potential students and partners.
 
+## Showcase
+
+[View the live project here.](https://bernardellimyckael.github.io/Milestone-Project/)
+
 ![Screenshot_20230221_235446](https://user-images.githubusercontent.com/96267170/221402947-845b25b2-8248-4ee8-bac3-5eac25568f5b.png)
 
 
@@ -18,17 +22,18 @@ The end user want to see information about the subscribe, gym equipment, gym cla
 The objective of the projct is to help the gym get more subscribes with a easy and simple website.
     
 * As a user I want to find out more about the gym prices.
-* As a user I want to find out wich is the closest gym from my neighbourhood.
+* As a user I want to find out if the gym is the closest gym from my neighbourhood.
 * As a user I want to know how to subscribe.
 * As a user I want to know about the classes they offer.
 * As a user I want to get in touch with the gym easily.
 * As a user I want to be able to find the gym addres and post code.
+* As a user I want to find the gym's social media links easily.
 
 ## Design
 
 - ### Colour Palette
     
-    - I choose the colors thinging in a colorful place with happy and strong fellings as a strong color you be come stronger
+    - I've chosen the colours thinking in a colorful place which reminds me of happiness and strong fellings as strong colours.
 
 ![image](https://user-images.githubusercontent.com/96267170/221581698-b14c206d-5897-4d2e-8f11-578117d6cd0f.png)
 
@@ -38,12 +43,11 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     
 - ### Image 
  
-    - I took all images thinking to look likes people is happy on the gym 
+    - I took all images to give the feeling of happiness in the gym
    
 - ### Wireframe  
 
 -   ![New Wireframe 1 (1)](https://user-images.githubusercontent.com/96267170/221585524-34a0159c-949b-4d2e-a491-75d42233c5b2.png)
-finded in https://www.google.com/imghp?hl=EN
     
 ## Features
 
@@ -60,4 +64,87 @@ finded in https://www.google.com/imghp?hl=EN
 
 ## Animations and Transitions
 
-   -on my footer I used transform: rotate(-15deg) scale(1.5); to move a bit my social icons when I hover it.
+- On my footer I used transform: rotate(-15deg) scale(1.5); to move a bit my social icons when I hover on it.
+   
+## Technologies Used
+
+1. [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    -
+1. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    -
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used to get the icon to be the website's favicon.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from GitHub Desktop.
+1. [GitHub Desktop](https://desktop.github.com/)
+    - GitHub Desktop was used to push the code from the local repository to GitHub.
+1. [vsCode](https://code.visualstudio.com/)
+    - vsCode was used to write and format code
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the wireframes during the design process.5. 
+  
+  ## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+-   [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) 
+-   [GoogleDev]([CTRL+SHIFT+I](https://www.google.com/intl/en_uk/chrome/dev/)) 
+
+ ### Further Testing
+
+-   The Website was tested on Google Chrome, Internet Explorer and Microsoft Edge browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, MotoG10, Samsung S20fe and simulators.
+-   A large amount of testing was done to ensure that all page sections were linking correctly.
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+### Known Bugs
+
+-   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+    -   A white gap can be seen to the right of the footer and navigation bar as a result.
+-   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+
+## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+## Credits
+
+### Code
+
+-   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+-   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+
+### Content
+
+-   All content was written by the developer.
+
+-   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+
+### Media
+
+-   All Images were created by the developer.
+
+### Acknowledgements
+
+-   My Mentor for continuous helpful feedback.
+
+-   Tutor support at Code Institute for their support.
