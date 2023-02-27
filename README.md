@@ -27,4 +27,37 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 ## Design
 
 - ### Colour Palette
+    
+    - I choose the colors thinging in a colorful place with happy and strong fellings as a strong color you be come stronger
 
+![image](https://user-images.githubusercontent.com/96267170/221581698-b14c206d-5897-4d2e-8f11-578117d6cd0f.png)
+
+- ### Typography
+
+    - Sans-serif is the main font used on the whole website with serif as fallback
+    
+- ### Image 
+ 
+    - I took all images thinking to look likes people is happy on the gym 
+   
+- ### Wireframe  
+
+-   ![New Wireframe 1 (1)](https://user-images.githubusercontent.com/96267170/221585524-34a0159c-949b-4d2e-a491-75d42233c5b2.png)
+finded in https://www.google.com/imghp?hl=EN
+    
+## Features
+
+* top menu (desktop navigation)
+* sidebar menu (mobile navigation)
+* footer
+* containers/cards
+* buttons
+* text input
+* textarea inputs
+* maps
+* images
+* icons
+
+## Animations and Transitions
+
+   -on my footer I used transform: rotate(-15deg) scale(1.5); to move a bit my social icons when I hover it.
