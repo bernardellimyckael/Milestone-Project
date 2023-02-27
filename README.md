@@ -39,11 +39,12 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 
 - ### Typography
 
-    - Sans-serif is the main font used on the whole website with serif as fallback
+    - Sans-serif is the main font used on the whole website with serif as fallback.
+    - It was chosen for being the most-used font and are compatibles to all devices and browsers.
     
 - ### Image 
  
-    - I took all images to give the feeling of happiness in the gym
+    - All images were chosen for giving the feeling of happiness in the gym.
    
 - ### Wireframe  
 
@@ -56,7 +57,9 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 * footer
 * containers/cards
 * buttons
+* form
 * text input
+* email input
 * textarea inputs
 * maps
 * images
@@ -69,9 +72,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 ## Technologies Used
 
 1. [HTML5](https://en.wikipedia.org/wiki/HTML5)
-    -
 1. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-    -
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Font Awesome:](https://fontawesome.com/)
@@ -89,12 +90,17 @@ The objective of the projct is to help the gym get more subscribes with a easy a
   
   ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    -   Used to validate all HTML code
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+    -   Used to validate all CSS code
 -   [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) 
--   [GoogleDev]([CTRL+SHIFT+I](https://www.google.com/intl/en_uk/chrome/dev/)) 
+    -   Used to validate and test accessibility of the website
+-   [GoogleDev](https://www.google.com/intl/en_uk/chrome/dev/)  
+-   [Am I responsive?](https://ui.dev/amiresponsive)
+    -   Used to validate and test responsiveness of the website
+-   [WebAIM](https://webaim.org/resources/contrastchecker/)
+    -   Used to validate and test colours contrast.
 
  ### Further Testing
 
@@ -105,9 +111,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   
 
 ## Deployment
 
@@ -127,24 +131,20 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
-
+-   [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): 
+    -   Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 ### Content
 
--   All content was written by the developer.
+-   About section 'What makes our gyms great' text was taken from Pure Gym website.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+-   'Our Classes' section was taken from google description for each activity
+
+-   All other content was written by the developer.
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images were taken from [google images](https://www.google.com/imghp?hl=EN).
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
-
--   Tutor support at Code Institute for their support.
+-   My Mentor Malia Havlicek for continuous helpful feedback.
