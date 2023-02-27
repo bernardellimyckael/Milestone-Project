@@ -1,8 +1,8 @@
 # Milestone-Project
 
-Project - User-Centric Frontend Development - Code Institute.
+Project - User-Centric Frontend Development - DGYM.
 
-The project will cover the main marketing website for DGYM. It is designed to be responsible and accessible on alot of devices, making it easy to navigate for potential students and partners.
+The project will cover the main marketing website for DGYM. It is designed to be responsible and accessible on a lot of devices, making it easy to navigate for potential gym users.
 
 ## Showcase
 
@@ -76,7 +76,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used to get the icon to be the website's favicon.
+    - Font Awesome was used to get the icon to be the website's favicon and icons throughout the website.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive.
 1. [GitHub:](https://github.com/)
@@ -96,11 +96,10 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     -   Used to validate all CSS code
 -   [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) 
     -   Used to validate and test accessibility of the website
--   [GoogleDev](https://www.google.com/intl/en_uk/chrome/dev/)  
--   [Am I responsive?](https://ui.dev/amiresponsive)
+-   [GoogleDev](https://www.google.com/intl/en_uk/chrome/dev/) & [Am I responsive?](https://ui.dev/amiresponsive)
     -   Used to validate and test responsiveness of the website
 -   [WebAIM](https://webaim.org/resources/contrastchecker/)
-    -   Used to validate and test colours contrast.
+    -   Used to validate and test colours contrast
 
  ### Further Testing
 
@@ -111,7 +110,10 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 
 ### Known Bugs
 
--   
+-   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
+ would be pushed out of the box downwards.
+    -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug
+-   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully.
 
 ## Deployment
 
@@ -119,20 +121,23 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/bernardellimyckael/Milestone-Project)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
     - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://bernardellimyckael.github.io/Milestone-Project/) in the "GitHub Pages" section.
 
 ## Credits
 
 ### Code
 
--   [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): 
-    -   Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+-   [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to 
+    -   Making site responsive using the Bootstrap Grid System.
+    -   Adding navbar and footer code.
+    -   Using classes for colour, font, margin, padding, etc.
+
 ### Content
 
 -   About section 'What makes our gyms great' text was taken from Pure Gym website.
