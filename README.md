@@ -8,7 +8,7 @@ The project will cover the main marketing website for DGYM. It is designed to be
 
 [View the live project here.](https://bernardellimyckael.github.io/Milestone-Project/)
 
-![Screenshot_20230221_235446](https://user-images.githubusercontent.com/96267170/221402947-845b25b2-8248-4ee8-bac3-5eac25568f5b.png)
+![image](https://user-images.githubusercontent.com/96267170/221904826-7cfcbd07-383a-40c0-a5a2-042d3f7185fc.png)
 
 
 ## User Experience (UX)
@@ -72,7 +72,6 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 
     ![image](https://user-images.githubusercontent.com/96267170/221877723-9e26e84b-f59c-47af-965c-52675db941e4.png)
 
-
 * Hero Section
     - The Hero Section will be a landing page for the user and a call to action text with a 'Join Now' button.
     - This section covers a brief overview of what the gym stands for and its principal selling points.
@@ -115,8 +114,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - Copyright note.
     - links open in separate tabs so user can go back to our site easily without browser back button
  
-
-    
+    ![Screenshot_20230228_151329](https://user-images.githubusercontent.com/96267170/221905342-76dbd1ee-28e6-4a17-b671-878257fa1ac0.png)    
 
 ## Animations and Transitions
 
