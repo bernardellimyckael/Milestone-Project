@@ -70,7 +70,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - goes to toggle navigation on small devices
     - sticks to the top so links are present no matter where the user is on the page
 
-    ![image](https://user-images.githubusercontent.com/96267170/221877723-9e26e84b-f59c-47af-965c-52675db941e4.png)
+    ![Screenshot_20230228_140344](https://user-images.githubusercontent.com/96267170/221905967-0b9f2e34-c68d-4593-9e13-85cbeff39498.png)
 
 * Hero Section
     - The Hero Section will be a landing page for the user and a call to action text with a 'Join Now' button.
