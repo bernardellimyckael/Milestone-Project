@@ -161,21 +161,20 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 ### Bugs
 
 #### Fixed Bugs
-
-    -   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
- would be pushed out of the box downwards.
-    -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug.
-    -   The imagens was strach and to fix it I used the object-fit:cover; and now the images is pretty good
+   -   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
+  would be pushed out of the box downwards.
+   -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug.
+   -   The imagens was strach and to fix it I used the object-fit:cover; and now the images is pretty good
     
-    - Before
+   - Before
 
-    ![Screenshot_20230228_144040](https://user-images.githubusercontent.com/96267170/221886900-e984d141-d4cf-443a-9410-09b6ce0599bf.png)
+   ![Screenshot_20230228_144040](https://user-images.githubusercontent.com/96267170/221886900-e984d141-d4cf-443a-9410-09b6ce0599bf.png)
 
-    - after fix bug
+   - after fix bug
 
-    ![Screenshot_20230228_144233](https://user-images.githubusercontent.com/96267170/221887326-f69ac27a-a653-4a09-88a3-c48234e38059.png)
+   ![Screenshot_20230228_144233](https://user-images.githubusercontent.com/96267170/221887326-f69ac27a-a653-4a09-88a3-c48234e38059.png)
 
-    -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentoring help and she help me show a Jscript code to fix it.
+   -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentoring help and she help me show a Jscript code to fix it.
     -   When I was click on send button it mad a error beacuse I was useing the method="post" so I talk take it out and put a link to thank you page.
     -   When I started code I was using Gitpod and i Use git push to push it to my repositories and I thought but when i turn off my pc and turn on again I didn't find it on my github, so I lost all and since it I start use VsCode and GitDesktop to push it to my repositories 
 
