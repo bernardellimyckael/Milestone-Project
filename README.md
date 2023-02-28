@@ -136,7 +136,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 
 #### Fixed Bugs
 
--   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
+    -   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
  would be pushed out of the box downwards.
     -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug.
     

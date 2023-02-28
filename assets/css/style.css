@@ -1,7 +1,7 @@
 /*Background image from top page*/
 .container-image-main{
     background-image: url(../image/home-page.jpg);
-    background-position: center;
+   
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
