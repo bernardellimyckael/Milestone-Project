@@ -12,9 +12,6 @@
  color: #BE5804 !important;
 }
 
-.text-decoration-none:hover{
-    color: #BE5804 !important;
-}
 /*Classes Imagens center and fit it */
 .container-img-class{
     width: 150px;
@@ -60,6 +57,25 @@
 .main-marg{
     margin-top: 56px !important;
 }
+/* just to make my hover social midias more fun and attractive*/
+footer a:hover i {
+    transform: rotate(-15deg) scale(1.5);
+}
+/*make my main links to navgation bar on footer be orange when hover it*/
+.link-footer-ora:hover{
+    color: #BE5804;
+}
+/*I use body to set a font family that I choose*/
+body{
+    font-family:sans-serif, serif;
+}
+/*just to make marge in locations details*/
+.location-items{
+    border-top: 1px solid black;
+    padding: 10px 0;
+    height: 95px;
+}
+/*style to a thank you page is a main container imag*/
 .confirm-main-contant{
     background-image: url("../image/home-page.jpg");
     width: 100vw;
@@ -67,22 +83,20 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+/*link to back to home in a thank you page*/
 .confirm-main-link-home{
     width: 30vw;
     height: 30vh;
     background-color: #be58048f;
     margin: auto;
 }
+/*centralize the text content of thank you page*/
 .text-position{
     text-align: justify !important;
 }
-footer a:hover i {
-    transform: rotate(-15deg) scale(1.5);
-}
 
-body{
-    font-family:sans-serif, serif;
-}
+
+
 
 
 /* the same class as before but some changes to tablets size*/
@@ -124,6 +138,10 @@ body{
     font-size: 200%;
     text-align: center;
 }
+.location-items{
+    border: none;
+}
+
 }
 /* the same class as before but some changes to big tablets size*/
 @media only screen and (min-width: 992px) {
