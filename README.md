@@ -114,8 +114,9 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - Links for gym's social media: facebook, twitter, google and instagram.
     - Copyright note.
     - links open in separate tabs so user can go back to our site easily without browser back button
+ 
 
-    ![Uploading image.png…]()
+    
 
 ## Animations and Transitions
 
@@ -168,13 +169,18 @@ The objective of the projct is to help the gym get more subscribes with a easy a
  would be pushed out of the box downwards.
     -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug.
     -   The imagens was strach and to fix it I used the object-fit:cover; and now the images is pretty good
+    
     - Before
+
     ![Screenshot_20230228_144040](https://user-images.githubusercontent.com/96267170/221886900-e984d141-d4cf-443a-9410-09b6ce0599bf.png)
+
     - after fix bug
+
     ![Screenshot_20230228_144233](https://user-images.githubusercontent.com/96267170/221887326-f69ac27a-a653-4a09-88a3-c48234e38059.png)
+
     -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentoring help and she help me show a Jscript code to fix it.
     -   When I was click on send button it mad a error beacuse I was useing the method="post" so I talk take it out and put a link to thank you page.
-    - When I started code I was using Gitpod and i Use git push to push it to my repositories and I thought but when i turn off my pc and turn on again I didn't find it on my github, so I lost all and since it I start use VsCode and GitDesktop to push it to my repositories 
+    -   When I started code I was using Gitpod and i Use git push to push it to my repositories and I thought but when i turn off my pc and turn on again I didn't find it on my github, so I lost all and since it I start use VsCode and GitDesktop to push it to my repositories 
 
 ### GitHub Pages
 
@@ -205,8 +211,7 @@ The project was deployed to GitHub Pages using the following steps...
     
 -   [W3Schools](https://www.w3schools.com/): used for guiding in differents parts of code.
 
--   [Dave Atchley's post on Medium](https://medium.com/dailyjs/mimicking-bootstraps-collapse-with-vanilla-javascript-b3bb389040e7)
-    -   This script was taken directly to solve mobile navigation toggle
+-   [Dave Atchley's post on Medium](https://medium.com/dailyjs/mimicking-bootstraps-collapse-with-vanilla-javascript-b3bb389040e7) This script was taken directly to solve mobile navigation toggle
 
 ### Content
 
