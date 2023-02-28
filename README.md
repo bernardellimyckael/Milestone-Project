@@ -78,7 +78,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - Join Now Button scrolls user down nicely to contact form
     - placement of text adjusts responsively and remains above the image
     
-    ![image](https://user-images.githubusercontent.com/96267170/221878370-b112d003-577a-4180-8f4a-39530af73ece.png)
+    ![image](https://user-images.githubusercontent.com/96267170/221907317-b8d11751-2484-4942-ba5d-51beaf3d8d62.png)
 
 * Our classes section
     - All the four classes/activities that are provided by the gym.
@@ -87,9 +87,8 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - items reduce from 4 columns desktop to 2 on tablets and one on phone
     - Join Now Button scrolls user down nicely to contact form
     - text is left aligned to make it easy to read
-    
-    ![image](https://user-images.githubusercontent.com/96267170/221884623-7e62de2c-8dd9-43e1-a7d8-2758589eec7e.png)
-
+    - 
+    ![image](https://user-images.githubusercontent.com/96267170/221878370-b112d003-577a-4180-8f4a-39530af73ece.png)
     
 * Contact us section
     - A form to contact the gym including a field for name, email, subject, message and a send button.
@@ -98,7 +97,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - fields are big enough for friendly interaction on mobile devices
     - form takes user to confirmation page, so it seems like they remain on site vs form dump
     
-    ![image](https://user-images.githubusercontent.com/96267170/221884990-ac40265a-68b2-4543-aa45-91f6d7e846fa.png)
+    ![image](https://user-images.githubusercontent.com/96267170/221884623-7e62de2c-8dd9-43e1-a7d8-2758589eec7e.png)
     
 * Find us section
 
@@ -106,7 +105,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - The written location, phone number and email to contact
     - phone, address and email adjusts to one column on mobile devices from 3 on desktop
     
-    ![image](https://user-images.githubusercontent.com/96267170/221885113-aa513de3-4db4-4d41-850b-bcd74d4b701f.png)
+    ![image](https://user-images.githubusercontent.com/96267170/221884990-ac40265a-68b2-4543-aa45-91f6d7e846fa.png)
     
 * Footer
     - Links for the section in the page: home, classes, contact and find us.
