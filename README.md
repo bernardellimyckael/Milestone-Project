@@ -185,13 +185,15 @@ The objective of the projct is to help the gym get more subscribes with a easy a
    
    Images not accurate due to copyright purposes. Because I needed to change images that were taken from google before to new images taken from Unsplash.
 
-   -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentoring help and she help me show a Jscript code to fix it.
-    -   When I was click on send button it mad a error beacuse I was useing the method="post" so I talk take it out and put a link to thank you page.
-    -   When I started code I was using Gitpod and i Use git push to push it to my repositories and I thought but when i turn off my pc and turn on again I didn't find it on my github, so I lost all and since it I start use VsCode and GitDesktop to push it to my repositories 
+   -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentor for help and she helped me showing a JavaScript code to fix it.
+   
+   -   When I would click on send button it made an error beacuse I was using the method="post" so I took it out and put a link to thank you page.
+   
+   -   When I started coding I was using Gitpod and I used git push to push it to my repository and I thought it worked but when I turned off my computer and turned on again I didn't find it on my github, so I lost it all and I start using VsCode and GitHub Desktop to push it to my repository since.
 
 ### GitHub Pages
 
-The project was deployed to GitHub Pages using the following steps...
+The project was deployed to GitHub Pages using the following steps:
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/bernardellimyckael/Milestone-Project)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
