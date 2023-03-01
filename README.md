@@ -182,6 +182,8 @@ The objective of the projct is to help the gym get more subscribes with a easy a
    - after fix bug
 
    ![Screenshot_20230228_144233](https://user-images.githubusercontent.com/96267170/221887326-f69ac27a-a653-4a09-88a3-c48234e38059.png)
+   
+   Images not accurate due to copyright purposes. Because I needed to change images that were taken from google before to new images taken from Unsplash.
 
    -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentoring help and she help me show a Jscript code to fix it.
     -   When I was click on send button it mad a error beacuse I was useing the method="post" so I talk take it out and put a link to thank you page.
