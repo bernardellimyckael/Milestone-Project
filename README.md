@@ -142,10 +142,19 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     -   Used to validate all HTML code
+    
+    ![image](https://user-images.githubusercontent.com/96267170/222013434-ec0f1320-76ab-49fb-af1d-762c93a4b788.png)
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
     -   Used to validate all CSS code
+    
+    ![image](https://user-images.githubusercontent.com/96267170/222013640-b9066561-b002-4cbd-bbbf-0c181c2905c8.png)
+
 -   [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) 
     -   Used to validate and test accessibility of the website
+    
+    ![image](https://user-images.githubusercontent.com/96267170/222013306-60d2604c-059a-4015-90b3-1fe0557bd99e.png)
+
 -   [GoogleDev](https://www.google.com/intl/en_uk/chrome/dev/) & [Am I responsive?](https://ui.dev/amiresponsive)
     -   Used to validate and test responsiveness of the website
 -   [WebAIM](https://webaim.org/resources/contrastchecker/)
