@@ -82,11 +82,12 @@ body{
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 /*link to back to home in a thank you page*/
 .confirm-main-link-home{
-    width: 30vw;
-    height: 30vh;
+    width: 100vw;
+    height: auto;
     background-color: #be58048f;
     margin: auto;
 }
