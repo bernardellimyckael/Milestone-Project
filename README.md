@@ -209,9 +209,11 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Code
 
+-   [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap used for adding navigation menu code
+
 -   [MDBootstrap](https://mdbootstrap.com/): Bootstrap Library used throughout the project mainly to:
     -   Making site responsive using the Bootstrap Grid System.
-    -   Adding navbar and footer code.
+    -   Adding contact and footer code.
     -   Using classes for colour, font, margin, padding, etc.
     
 -   [W3Schools](https://www.w3schools.com/): used for guiding in differents parts of code.
@@ -220,9 +222,9 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
--   About section 'What makes our gyms great' text was taken from Pure Gym website.
+-   About section 'What makes our gyms great' text was taken from [Pure Gym website](https://www.puregym.com/).
 
--   'Our Classes' section was taken from google description for each activity
+-   'Our Classes' section was taken from google description for each activity.
 
 -   All other content was written by the developer.
 
