@@ -8,7 +8,7 @@ The project will cover the main marketing website for DGYM. It is designed to be
 
 [View the live project here.](https://bernardellimyckael.github.io/Milestone-Project/)
 
-![Screenshot_20230221_235446](https://user-images.githubusercontent.com/96267170/221402947-845b25b2-8248-4ee8-bac3-5eac25568f5b.png)
+![image](https://user-images.githubusercontent.com/96267170/221904826-7cfcbd07-383a-40c0-a5a2-042d3f7185fc.png)
 
 
 ## User Experience (UX)
@@ -70,16 +70,15 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - goes to toggle navigation on small devices
     - sticks to the top so links are present no matter where the user is on the page
 
-    ![image](https://user-images.githubusercontent.com/96267170/221877723-9e26e84b-f59c-47af-965c-52675db941e4.png)
-
-
+    ![Screenshot_20230228_140344](https://user-images.githubusercontent.com/96267170/221906687-7556e526-c43e-49b1-bf0f-97763d622ced.png)
+    
 * Hero Section
     - The Hero Section will be a landing page for the user and a call to action text with a 'Join Now' button.
     - This section covers a brief overview of what the gym stands for and its principal selling points.
     - Join Now Button scrolls user down nicely to contact form
     - placement of text adjusts responsively and remains above the image
     
-    ![image](https://user-images.githubusercontent.com/96267170/221878370-b112d003-577a-4180-8f4a-39530af73ece.png)
+    ![image](https://user-images.githubusercontent.com/96267170/221907317-b8d11751-2484-4942-ba5d-51beaf3d8d62.png)
 
 * Our classes section
     - All the four classes/activities that are provided by the gym.
@@ -88,9 +87,8 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - items reduce from 4 columns desktop to 2 on tablets and one on phone
     - Join Now Button scrolls user down nicely to contact form
     - text is left aligned to make it easy to read
-    
-    ![image](https://user-images.githubusercontent.com/96267170/221884623-7e62de2c-8dd9-43e1-a7d8-2758589eec7e.png)
-
+    - 
+    ![image](https://user-images.githubusercontent.com/96267170/221878370-b112d003-577a-4180-8f4a-39530af73ece.png)
     
 * Contact us section
     - A form to contact the gym including a field for name, email, subject, message and a send button.
@@ -99,7 +97,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - fields are big enough for friendly interaction on mobile devices
     - form takes user to confirmation page, so it seems like they remain on site vs form dump
     
-    ![image](https://user-images.githubusercontent.com/96267170/221884990-ac40265a-68b2-4543-aa45-91f6d7e846fa.png)
+    ![image](https://user-images.githubusercontent.com/96267170/221884623-7e62de2c-8dd9-43e1-a7d8-2758589eec7e.png)
     
 * Find us section
 
@@ -107,7 +105,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - The written location, phone number and email to contact
     - phone, address and email adjusts to one column on mobile devices from 3 on desktop
     
-    ![image](https://user-images.githubusercontent.com/96267170/221885113-aa513de3-4db4-4d41-850b-bcd74d4b701f.png)
+    ![image](https://user-images.githubusercontent.com/96267170/221884990-ac40265a-68b2-4543-aa45-91f6d7e846fa.png)
     
 * Footer
     - Links for the section in the page: home, classes, contact and find us.
@@ -115,8 +113,7 @@ The objective of the projct is to help the gym get more subscribes with a easy a
     - Copyright note.
     - links open in separate tabs so user can go back to our site easily without browser back button
  
-
-    
+    ![Screenshot_20230228_151329](https://user-images.githubusercontent.com/96267170/221905342-76dbd1ee-28e6-4a17-b671-878257fa1ac0.png)    
 
 ## Animations and Transitions
 
@@ -164,21 +161,20 @@ The objective of the projct is to help the gym get more subscribes with a easy a
 ### Bugs
 
 #### Fixed Bugs
-
-    -   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
- would be pushed out of the box downwards.
-    -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug.
-    -   The imagens was strach and to fix it I used the object-fit:cover; and now the images is pretty good
+   -   The button 'Join Now' in orange box in the main home page, when rotating small/medium devices to landscape view,
+  would be pushed out of the box downwards.
+   -   The bug happened for the height being based on the height view, instead 'height: auto;' sorted the bug.
+   -   The imagens was strach and to fix it I used the object-fit:cover; and now the images is pretty good
     
-    - Before
+   - Before
 
-    ![Screenshot_20230228_144040](https://user-images.githubusercontent.com/96267170/221886900-e984d141-d4cf-443a-9410-09b6ce0599bf.png)
+   ![Screenshot_20230228_144040](https://user-images.githubusercontent.com/96267170/221886900-e984d141-d4cf-443a-9410-09b6ce0599bf.png)
 
-    - after fix bug
+   - after fix bug
 
-    ![Screenshot_20230228_144233](https://user-images.githubusercontent.com/96267170/221887326-f69ac27a-a653-4a09-88a3-c48234e38059.png)
+   ![Screenshot_20230228_144233](https://user-images.githubusercontent.com/96267170/221887326-f69ac27a-a653-4a09-88a3-c48234e38059.png)
 
-    -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentoring help and she help me show a Jscript code to fix it.
+   -   Navigation menu doesn't collapse when clicking on links, tried few differents methods unsuccessfully, I ask my mentoring help and she help me show a Jscript code to fix it.
     -   When I was click on send button it mad a error beacuse I was useing the method="post" so I talk take it out and put a link to thank you page.
     -   When I started code I was using Gitpod and i Use git push to push it to my repositories and I thought but when i turn off my pc and turn on again I didn't find it on my github, so I lost all and since it I start use VsCode and GitDesktop to push it to my repositories 
 
